@@ -31,7 +31,7 @@ class CreateAccount extends React.Component {
                     <form  noValidate autoComplete="off">
 
                         <TextField
-                            label="FirstName"
+                            label="First Name"
                             margin="normal"
                             type="text"
 
